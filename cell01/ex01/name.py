@@ -1,4 +1,3 @@
-lastname = "Pokkaew"
-fristname = "Kanyapak"
-print(lastname)
-print(fristname)
+frist_name = "Kanyapak"
+last_name = "Pokkaew"
+print(frist_name,last_name)
