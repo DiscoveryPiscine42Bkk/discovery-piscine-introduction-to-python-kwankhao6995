@@ -1,0 +1,4 @@
+fristname = "Kanyapak"
+lastname = "Pokkaew"
+print(fristname)
+print(lastname)
