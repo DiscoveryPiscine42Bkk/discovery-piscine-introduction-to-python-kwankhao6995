@@ -1,8 +1,8 @@
-def add_one(x) :
-    return x+1
+def add_one(x):
+ x = x + 1
+print ("Insinde add_one:",x)
 
-num = 5
-print ("Before:", num)
-
-add_one(num)
-print ("After:", num)
+value = 5
+print("Before odd_one:", value)
+add_one(value)
+print("After add_one:",velue)
