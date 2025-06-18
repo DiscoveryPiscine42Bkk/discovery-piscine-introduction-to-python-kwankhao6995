@@ -1,10 +1,8 @@
-def greetings (name="noble stramger"): 
-    if isinstance(name, str):
-        print(f" Hello, {name}.")
-    else:
-        print("Error! It was not a name.")
+def add_one(x) :
+    return x+1
 
-greetings("Trent")
-greetings("Alexander")
-greetings() 
-greetings (23)
+num = 5
+print ("Before:", num)
+
+add_one(nun)
+print ("After:", num)
