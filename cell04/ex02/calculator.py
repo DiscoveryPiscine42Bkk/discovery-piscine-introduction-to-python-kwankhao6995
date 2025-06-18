@@ -5,7 +5,7 @@ print(f"{num_1} + {num_2} = {num_1 + num_2}")
 print(f"{num_1} - {num_2} = {num_1 - num_2}")
 div = num_1 / num_2
 if div == int(div):
-print(f"{num1} / {num2} = {int(num1 / num2)}")
+     print(f"{num1} / {num2} = {int(num1 / num2)}")
 else:
-print(f"{num_1} / {num_2} = {div}")
+     print(f"{num_1} / {num_2} = {div}")
 print(f"{num_1} * {num_2} = {num_1 * num_2}")
