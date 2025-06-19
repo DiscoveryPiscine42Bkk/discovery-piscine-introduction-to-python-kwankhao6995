@@ -6,7 +6,6 @@ women_sciemtists = {
     "ada":{"name": "Ada Lovelace", "date_of_birth": "1815"},
     "cecilia": {"name": "Cecilia Panye", "date_of_birth": "1900"},
     "lise":{ "name": "Lise Meitner","date_of_birth": "1878" },
-    "date of birth": "1878" },
-"grace": {"name": "Grace Hopper", "date_of_birth": "1906"}
+    "grace": { "name": "Grace Hopper", "date_of_birth": "1906" }
 }
 famous_births(women_sciemtists)
