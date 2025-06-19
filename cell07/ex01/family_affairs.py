@@ -1,4 +1,4 @@
-def find_theredheads (family):
+def find_the_redheads (family):
     return list(filter(lambda name: family[name] == "red", family))
 
 dupont_family = {
